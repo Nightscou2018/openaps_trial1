@@ -4,23 +4,37 @@
     {
       "i": 0, 
       "start": "00:00:00", 
-      "sensitivity": 60, 
+      "sensitivity": 78, 
       "offset": 0, 
       "x": 0
     }, 
     {
-      "i": 12, 
-      "start": "06:00:00", 
-      "sensitivity": 50, 
-      "offset": 360, 
+      "i": 8, 
+      "start": "04:00:00", 
+      "sensitivity": 75, 
+      "offset": 240, 
       "x": 1
     }, 
     {
-      "i": 40, 
-      "start": "20:00:00", 
+      "i": 15, 
+      "start": "07:30:00", 
       "sensitivity": 60, 
-      "offset": 1200, 
+      "offset": 450, 
       "x": 2
+    }, 
+    {
+      "i": 23, 
+      "start": "11:30:00", 
+      "sensitivity": 60, 
+      "offset": 690, 
+      "x": 3
+    }, 
+    {
+      "i": 34, 
+      "start": "17:00:00", 
+      "sensitivity": 55, 
+      "offset": 1020, 
+      "x": 4
     }
   ], 
   "first": 1
