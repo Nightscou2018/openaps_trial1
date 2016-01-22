@@ -1,0 +1,19 @@
+[
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-01-22T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-01-22T00:00:00", 
+    "_body": "0500696969010000021a01ca5500500f000000500f00000000000000506401000000010c00e8000000", 
+    "_head": "6d", 
+    "_date": "1590"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-01-22T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-01-22T00:00:00", 
+    "_body": "", 
+    "valid_date": "2016-01-21", 
+    "_head": "070000021a", 
+    "_date": "1590"
+  }
+]
