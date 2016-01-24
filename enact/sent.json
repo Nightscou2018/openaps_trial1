@@ -1,12 +1,17 @@
 {
-  "bg": 216, 
+  "requested": {
+    "duration": 30, 
+    "rate": 1.8, 
+    "temp": "absolute"
+  }, 
+  "bg": 202, 
   "temp": "percent", 
-  "snoozeBG": 195, 
-  "timestamp": "2016-01-24T15:13:14.432280", 
-  "rate": 115, 
-  "reason": "6mins @114.150 = 11.415 > req 1.12+0.3 U", 
-  "eventualBG": 195, 
+  "snoozeBG": 182, 
+  "timestamp": "2016-01-24T15:31:23.464298", 
+  "rate": 200, 
+  "reason": "21mins @199.150 = 69.703 > req 0.47+0.3 U", 
+  "eventualBG": 182, 
   "recieved": false, 
-  "duration": 2, 
+  "duration": 19, 
   "tick": -3
 }
