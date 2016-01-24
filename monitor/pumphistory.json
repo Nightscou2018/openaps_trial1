@@ -1,5 +1,14 @@
 [
   {
+    "_type": "ChangeTempBasalType", 
+    "temp": "absolute", 
+    "_description": "ChangeTempBasalType 2016-01-24T17:29:38 head[2], body[0] op[0x62]", 
+    "timestamp": "2016-01-24T17:29:38", 
+    "_body": "", 
+    "_head": "6200", 
+    "_date": "265d111810"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-01-24T16:32:06 head[2], body[0] op[0x16]", 
