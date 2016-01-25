@@ -1,12 +1,12 @@
 {
-  "bg": 94, 
+  "bg": 271, 
   "temp": "absolute", 
-  "snoozeBG": 115, 
+  "snoozeBG": 205, 
   "recieved": true, 
   "rate": 0.0, 
-  "reason": "115 is in range. No temp required; cancel", 
-  "eventualBG": 115, 
-  "timestamp": "2016-01-25T11:31:46.504419", 
+  "reason": "basal_iob 2.384 > max_iob 2", 
+  "eventualBG": 149, 
+  "timestamp": "2016-01-25T13:59:39.512458", 
   "duration": 0, 
-  "tick": "+1"
+  "tick": "+8"
 }
