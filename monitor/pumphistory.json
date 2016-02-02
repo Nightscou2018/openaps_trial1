@@ -1,19 +1,21 @@
 [
   {
-    "_type": "old6c", 
-    "_description": "old6c 2016-02-02T00:00:00 head[1], body[35] op[0x6c]", 
-    "timestamp": "2016-02-02T00:00:00", 
-    "_body": "0500665372030000058e03523c023c2800d1023c28023c640000000000000303000000", 
-    "_head": "6c", 
-    "_date": "2110"
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-02T09:45:24 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-02T09:45:24", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "18ad094210"
   }, 
   {
-    "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2016-02-02T00:00:00 head[5], body[0] op[0x07]", 
-    "timestamp": "2016-02-02T00:00:00", 
-    "_body": "", 
-    "valid_date": "2016-02-01", 
-    "_head": "070000058e", 
-    "_date": "2110"
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-02T09:45:24 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-02T09:45:24", 
+    "_body": "00", 
+    "_head": "3372", 
+    "rate": 2.85, 
+    "_date": "18ad094210"
   }
 ]
