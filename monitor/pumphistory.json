@@ -1,5 +1,58 @@
 [
   {
+    "_type": "ChangeBasalProfile_new_profile", 
+    "_description": "ChangeBasalProfile_new_profile 2016-02-16T21:44:06 head[2], body[145] op[0x09]", 
+    "timestamp": "2016-02-16T21:44:06", 
+    "_body": "002600081c000f20001722001b240022220000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+    "_head": "0906", 
+    "rate": "offset", 
+    "_date": "06ac151010"
+  }, 
+  {
+    "_type": "ChangeBasalProfile_old_profile", 
+    "_description": "ChangeBasalProfile_old_profile 2016-02-16T21:44:06 head[2], body[145] op[0x08]", 
+    "timestamp": "2016-02-16T21:44:06", 
+    "_body": "002600081c000f200017220022220000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+    "_head": "0805", 
+    "rate": "offset", 
+    "_date": "06ac151010"
+  }, 
+  {
+    "programmed": 4.6, 
+    "_type": "Bolus", 
+    "type": "normal", 
+    "_description": "Bolus 2016-02-16T20:09:34 head[4], body[0] op[0x01]", 
+    "duration": 0, 
+    "timestamp": "2016-02-16T20:09:34", 
+    "_body": "", 
+    "_head": "012e2e00", 
+    "amount": 4.6, 
+    "_date": "2289341010"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 120, 
+    "bg_target_high": 130, 
+    "correction_estimate": 0.0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-02-16T20:09:34 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-02-16T20:09:34", 
+    "_body": "46500f376e002e000000002e82", 
+    "carb_input": 70, 
+    "_head": "5b78", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 0, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "2289141010", 
+    "bolus_estimate": 4.6, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 15, 
+    "food_estimate": 4.6, 
+    "bg_target_low": 110, 
+    "sensitivity": 55
+  }, 
+  {
     "_type": "Prime", 
     "type": "fixed", 
     "_description": "Prime 2016-02-16T19:24:18 head[5], body[0] op[0x03]", 
