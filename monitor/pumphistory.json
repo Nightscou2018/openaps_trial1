@@ -1,0 +1,86 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-20T22:32:48 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-20T22:32:48", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "30a0165410"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-20T22:32:48 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-20T22:32:48", 
+    "_body": "00", 
+    "_head": "3372", 
+    "rate": 2.85, 
+    "_date": "30a0165410"
+  }, 
+  {
+    "programmed": 3.5, 
+    "_type": "Bolus", 
+    "type": "normal", 
+    "_description": "Bolus 2016-02-20T20:35:44 head[4], body[0] op[0x01]", 
+    "duration": 0, 
+    "timestamp": "2016-02-20T20:35:44", 
+    "_body": "", 
+    "_head": "01232300", 
+    "amount": 3.5, 
+    "_date": "2ca3341410"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 82, 
+    "bg_target_high": 130, 
+    "correction_estimate": -0.5, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-02-20T20:35:44 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-02-20T20:35:44", 
+    "_body": "3c500f376efb28f00000002382", 
+    "carb_input": 60, 
+    "_head": "5b52", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 251, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 240, 
+    "_date": "2ca3141410", 
+    "bolus_estimate": 3.5, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 15, 
+    "food_estimate": 4.0, 
+    "bg_target_low": 110, 
+    "sensitivity": 55
+  }, 
+  {
+    "_type": "Prime", 
+    "type": "fixed", 
+    "_description": "Prime 2016-02-20T20:01:18 head[5], body[0] op[0x03]", 
+    "timestamp": "2016-02-20T20:01:18", 
+    "_body": "", 
+    "fixed": 0.3, 
+    "_head": "0300030003", 
+    "amount": 0.3, 
+    "_date": "1281141410"
+  }, 
+  {
+    "_type": "Prime", 
+    "type": "manual", 
+    "_description": "Prime 2016-02-20T19:58:52 head[5], body[0] op[0x03]", 
+    "timestamp": "2016-02-20T19:58:52", 
+    "_body": "", 
+    "fixed": 0.0, 
+    "_head": "0300000056", 
+    "amount": 8.6, 
+    "_date": "34ba331410"
+  }, 
+  {
+    "_type": "Rewind", 
+    "_description": "Rewind 2016-02-20T19:54:52 head[2], body[0] op[0x21]", 
+    "timestamp": "2016-02-20T19:54:52", 
+    "_body": "", 
+    "_head": "2100", 
+    "_date": "34b6131410"
+  }
+]
