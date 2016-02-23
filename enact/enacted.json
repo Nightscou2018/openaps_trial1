@@ -6,7 +6,7 @@
   "rate": 0.0, 
   "reason": "Eventual BG 110>110 but Avg. Delta -2.67 < Exp. Delta 1.1; cancel", 
   "eventualBG": 110, 
-  "timestamp": "2016-02-23T18:05:57.973942", 
+  "timestamp": "2016-02-23T18:07:49.116091", 
   "duration": 0, 
   "mealAssist": "Off: Carbs: undefined Boluses: undefined Target: 120 Deviation: -21 BGI: 0.84", 
   "tick": -1
