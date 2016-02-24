@@ -2,6 +2,25 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-24T15:46:07 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-24T15:46:07", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "07ae0f5810"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-24T15:46:07 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-24T15:46:07", 
+    "_body": "00", 
+    "_head": "3324", 
+    "rate": 0.9, 
+    "_date": "07ae0f5810"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-02-24T15:16:08 head[2], body[0] op[0x16]", 
     "timestamp": "2016-02-24T15:16:08", 
     "_body": "", 
@@ -299,14 +318,5 @@
     "food_estimate": 4.4, 
     "bg_target_low": 120, 
     "sensitivity": 60
-  }, 
-  {
-    "_type": "LowReservoir", 
-    "_description": "LowReservoir 2016-02-24T12:42:21 head[2], body[0] op[0x34]", 
-    "timestamp": "2016-02-24T12:42:21", 
-    "_body": "", 
-    "_head": "34c8", 
-    "amount": 20.0, 
-    "_date": "15aa0c1810"
   }
 ]
