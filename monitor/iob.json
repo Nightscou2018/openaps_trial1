@@ -1,7 +1,7 @@
 {
-  "netbasalinsulin": 2.25, 
+  "netbasalinsulin": 2.2, 
   "bolussnooze": 0, 
-  "basaliob": 0.468, 
-  "iob": 0.468, 
-  "activity": 0.0158
+  "basaliob": 0.343, 
+  "iob": 0.343, 
+  "activity": 0.0147
 }
