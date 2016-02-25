@@ -4,35 +4,35 @@
     {
       "i": 0, 
       "start": "00:00:00", 
-      "sensitivity": 78, 
+      "sensitivity": 65, 
       "offset": 0, 
       "x": 0
     }, 
     {
       "i": 8, 
       "start": "04:00:00", 
-      "sensitivity": 75, 
+      "sensitivity": 60, 
       "offset": 240, 
       "x": 1
     }, 
     {
       "i": 15, 
       "start": "07:30:00", 
-      "sensitivity": 60, 
+      "sensitivity": 50, 
       "offset": 450, 
       "x": 2
     }, 
     {
       "i": 23, 
       "start": "11:30:00", 
-      "sensitivity": 60, 
+      "sensitivity": 55, 
       "offset": 690, 
       "x": 3
     }, 
     {
       "i": 34, 
       "start": "17:00:00", 
-      "sensitivity": 55, 
+      "sensitivity": 50, 
       "offset": 1020, 
       "x": 4
     }
